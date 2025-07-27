@@ -36,6 +36,8 @@
 ## About Me
 
 **DUGGIRALA BHAGYA VIVEKINI**
+
 Java Full Stack Engineer (FSE) Trainee @ Cognizant DN-4.0
+
 Email: [2200040307ece@gmail.com]
 Passionate about front-end development, component-based architecture, and creating engaging user experiences with React. Thank you Cognizant & team for this valuable opportunity!
